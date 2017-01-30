@@ -1,0 +1,22 @@
+body{
+    background: orangered;
+}
+
+th{
+    color: green;
+}
+
+td{
+    color: blue;
+}
+h1{
+  color:yellow;
+  font-family: Arial;
+  font-size: 300%; 
+}
+li{
+    color:darkblue;
+}
+form{
+    color:springgreen;
+}
