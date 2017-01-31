@@ -1,5 +1,5 @@
 body{
-    background: orangered;
+    background: lightgrey;
 }
 
 th{
@@ -10,7 +10,7 @@ td{
     color: blue;
 }
 h1{
-  color:yellow;
+  color:darkred;
   font-family: Arial;
   font-size: 300%; 
 }
@@ -19,4 +19,9 @@ li{
 }
 form{
     color:springgreen;
+    font-family: Arial;
+    font-size: 100%;
+}
+p{
+    color: darkred;
 }
